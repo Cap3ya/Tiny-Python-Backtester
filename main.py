@@ -5,8 +5,7 @@ from simulation import simulate_trades
 from plotter import plot_results
 
 if __name__ == "__main__":
-    file_path = "NQ_1min-2022-11-22_2024-11-22.csv"
-    # file_path = "NQ_1min-2023-11-22_2024-11-22.csv"
+    file_path = "NQ_1min-2023-11-22_2024-11-22.csv"
 
     # Strategy selection
     strategy_func = opening_range_strategy
