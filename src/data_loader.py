@@ -3,7 +3,7 @@ import databento as db
 
 def fetch_data():
     # Initialize the DataBento client
-    client = db.Historical('db-OPS')
+    client = db.Historical('API_KEY')
 
     # Retrieve historical data for a 2-year range
     data = client.timeseries.get_range(
