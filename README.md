@@ -8,7 +8,6 @@ $ sudo apt update
 $ sudo apt install python3 python3-pip python3-venv gh
 
 # clone repository
-$ gh auth login 
 $ gh repo clone Cap3ya/Tiny-Python-Backtester
 
 # move to repository
