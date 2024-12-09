@@ -12,7 +12,7 @@ $ gh auth login
 $ gh repo clone Cap3ya/Tiny-Python-Backtester
 
 # move to repository
-$ cd Tiny-Python-Backtester
+$ cd tinyPythonBacktester
 
 # create and activate the python virtual env
 $ python -m venv . && source bin/activate
