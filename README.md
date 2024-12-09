@@ -21,6 +21,6 @@ $ python -m venv . && source bin/activate
 $ pip install -r requirements.txt
 
 # run the main 
-$ python main.py 
+$ python src/main.py 
 
 ```
